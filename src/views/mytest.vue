@@ -1,5 +1,6 @@
 <template>
   <div>test my git</div>
+  <div>test my git2</div>
 </template>
 
 <script>
